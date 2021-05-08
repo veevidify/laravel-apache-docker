@@ -8,8 +8,8 @@ The images used in this repo is `php:7.2-apache` and `mysql:5.7`. The goal is to
 ## Up and running
 Clone the repo:
 ```
-$ git clone https://github.com/laravel/laravel.git
-$ cd laravel
+$ git clone https://github.com/veevidify/laravel-apache-docker.git
+$ cd laravel-apache-docker
 ```
 
 Copy `.env.example` to `.env`
