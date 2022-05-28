@@ -5,6 +5,8 @@ Start developing a fresh Laravel application with `docker` using `docker-compose
 
 The images used in this repo is `php:7.2-apache` and `mysql:5.7`. The goal is to make setting up the development as simple as possible.
 
+IMPORTANT: this repo's purpose is mainly a tutorial to write docker development environment for Laravel projects. You're encouraged to replicate the setup on a more recent version of Laravel and its toolings.
+
 ## Up and running
 Clone the repo:
 ```
